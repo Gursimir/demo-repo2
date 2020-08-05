@@ -11,7 +11,8 @@
 ⌨️ Then add it by using git add . command
 ⌨️ To know if it is added check the status again
 ⌨️ Now to commit by using git commit -m "msg" command
-⌨️ Once u commit ,push the repository to the gihub .Since we have created the          repository locally we have to create a empty git repository to make the connection between git and our local framework.
+⌨️ Once u commit ,push the repository to the gihub .
+Since we have created therepository locally we have to create a empty git repository to make the connection between git and our local framework.
 ⌨️ Copy the https or ssh code of the empty repository
 ⌨️ To add the reference to the remote repository use git remote add origin codeOfEmptyRepository command 
 ⌨️ To check that you are connected enter git remote -v command
