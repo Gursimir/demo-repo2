@@ -1,5 +1,5 @@
-# Repository created in external Editor
-
+# Repository created  externally
+<pre>
 ⭐️ Steps to follow ⭐️
 
 ⌨️ Create or Open a folder 
@@ -16,3 +16,6 @@
 ⌨️ To add the reference to the remote repository use git remote add origin codeOfEmptyRepository command 
 ⌨️ To check that you are connected enter git remote -v command
 ⌨️ Once you are done with that u can puch the repository by entering the command git push origin master 
+⌨️ To stop writting git push origin master again and again you can write git push -u origin master once and then use only git push command 
+⌨️ now u can refresh the git to see your pushed repository
+</pre>
